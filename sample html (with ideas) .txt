@@ -1,0 +1,8 @@
+<html>
+<head>
+Sample html page 1
+</head>
+<body>
+Possible future edits to be made: font, text size, color, navigation menu, more pages...
+</body>
+</html>
